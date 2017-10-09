@@ -1,3 +1,5 @@
+Adding stuff to this so that I can merge it back to master as I forgot to set up Dev branch earlier
+
 #call this script from the command line with the following syntax:
 #R --no-save <cript1.R --args seed=23978 out= out1.pdf
 #if arguments are not given, the default behaviour is:
